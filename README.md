@@ -1,0 +1,1 @@
+# gamsgo.github.io

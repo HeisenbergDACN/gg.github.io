@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>넷플보기</title>
-    <link>https://gamsgo.github.io/</link>
-    <description>Recent content on 넷플보기</description>
+    <title>Koreans on 넷플보기</title>
+    <link>https://gamsgo.github.io/korean/</link>
+    <description>Recent content in Koreans on 넷플보기</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language><atom:link href="https://gamsgo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language><atom:link href="https://gamsgo.github.io/korean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 넷플릭스 드라마 영화 추천 가이드</title>
       <link>https://gamsgo.github.io/korean/info/</link>

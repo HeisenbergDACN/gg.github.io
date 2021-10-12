@@ -2,15 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gamsgo.github.io/index.html</loc>
-  </url><url>
     <loc>https://gamsgo.github.io/authors/</loc>
   </url><url>
     <loc>https://gamsgo.github.io/categories/</loc>
   </url><url>
+    <loc>https://gamsgo.github.io/korean/gamsgo/</loc>
+  </url><url>
+    <loc>https://gamsgo.github.io/korean/</loc>
+  </url><url>
     <loc>https://gamsgo.github.io/series/</loc>
   </url><url>
     <loc>https://gamsgo.github.io/tags/</loc>
+  </url><url>
+    <loc>https://gamsgo.github.io/korean/netflix/</loc>
+  </url><url>
+    <loc>https://gamsgo.github.io/korean/price/</loc>
+  </url><url>
+    <loc>https://gamsgo.github.io/korean/squid_game/</loc>
+  </url><url>
+    <loc>https://gamsgo.github.io/korean/language/</loc>
   </url><url>
     <loc>https://gamsgo.github.io/</loc>
   </url>

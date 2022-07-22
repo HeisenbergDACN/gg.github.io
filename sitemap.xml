@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.netflixshared.com/index.html</loc>
+    <loc>https://www.netflixshared.com/korean/netflix_code/</loc>
   </url><url>
     <loc>https://www.netflixshared.com/authors/</loc>
   </url><url>
     <loc>https://www.netflixshared.com/categories/</loc>
   </url><url>
+    <loc>https://www.netflixshared.com/korean/gamsgo/</loc>
+  </url><url>
+    <loc>https://www.netflixshared.com/korean/</loc>
+  </url><url>
     <loc>https://www.netflixshared.com/series/</loc>
   </url><url>
     <loc>https://www.netflixshared.com/tags/</loc>
+  </url><url>
+    <loc>https://www.netflixshared.com/korean/netflix/</loc>
+  </url><url>
+    <loc>https://www.netflixshared.com/korean/price/</loc>
+  </url><url>
+    <loc>https://www.netflixshared.com/korean/squid_game/</loc>
+  </url><url>
+    <loc>https://www.netflixshared.com/korean/language/</loc>
   </url><url>
     <loc>https://www.netflixshared.com/</loc>
   </url>
